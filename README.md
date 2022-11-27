@@ -1,9 +1,25 @@
-## Hello!
-**Welcome to my github!**
-
-My name is polaris(my real name is Junheepark)
-Now I'm learning about Javascript and you could ack me about HTML and CSS.
-
-If you want to ask me about that,you could [clik](mailto:park.junhee211@gmail.com) this text and send the email to me.
-
-Also,if want to visit my blog,[click](https://polaris0211.github.io) this text to visit it.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=POlARIS'GITHUB✨&fontSize=90" />
+<div align="center">
+🎓✨What I learned
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-000000?style=flat&logo=Javascript&logoColor=white" />
+</div>
+<div align="center">
+✨What I use
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/VSC-000000?style=flat&logo=Visual Studio Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=CodePen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome-000000?style=flat&logo=Google Chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-000000?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github pages-000000?style=flat&logo=GitHub Pages&logoColor=white" />
+</div>
+<div align="center">
+✨Language I use<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polaris0211&layout=compact"><br><br>
+✨Github rate<br>
+<img src="https://github-readme-stats.vercel.app/api?username=polaris0211&show_icons=true">
+<div>
